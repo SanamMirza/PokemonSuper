@@ -14,5 +14,6 @@ public class Main {
         pikachu.lightningColor();
         bulbasaur.favoriteSong();
         squirtle.sound();
+        squirtle.eats();
     }
 }
